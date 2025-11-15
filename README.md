@@ -1,6 +1,6 @@
 # Hi, I’m Andrea 👋
 
-**Management engineering graduate** focused on **startup finance** and **management control**.
+**Industrial engineering graduate** focused on **startup finance** and **management control**.
 
 Right now I’m building a public portfolio on:
 
@@ -33,6 +33,6 @@ Right now I’m building a public portfolio on:
 
 ## 🛰️ Background
 
-- BSc in **Management Engineering** (Università di Bologna)  
+- BSc in **Industrial Engineering** (Università di Bologna)  
 - Internship in **finance & analytics** at an international food & beverage group  
 - Interested in: startups, venture capital, data-driven decision making
