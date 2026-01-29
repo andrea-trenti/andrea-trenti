@@ -24,8 +24,8 @@ Industrial engineering graduate focused on **startup finance**, **management con
 
 ### 🎓 Background
 
-- **BSc in Industrial Engineering** – focus on operations, statistics and applied economics.  
-- Experience in **finance & analytics** within an international **food & beverage** environment.  
+- **MSc in Industrial Engineering** – focus on operations, statistics and applied economics.  
+- Experience in **finance & analytics** within an international environment.  
 - Comfortable working between **Excel / spreadsheets**, basic **BI tools**, and  
   more qualitative **strategy / narrative**.
 
@@ -43,7 +43,7 @@ Industrial engineering graduate focused on **startup finance**, **management con
 
 ### 🚀 Interests
 
-- **Startups & venture capital** – especially product-driven companies where  
+- **Startups & Private Equity** – especially product-driven companies where  
   business model and unit economics are as important as the technology.  
 - **Analytics & decision support** – turning raw data into **simple, robust structures**  
   founders can use week after week.  
